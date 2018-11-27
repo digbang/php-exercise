@@ -1,0 +1,42 @@
+{
+    "name": "digbang/php-exercise",
+    "description": "PHP Exercise",
+    "license": "proprietary",
+    "type": "project",
+    "require": {
+        "php": ">=7.1",
+        "cakephp/chronos": "^1.2",
+        "moneyphp/money": "^3.0"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^5.1"
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        },
+        "files": [
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+
+        }
+    },
+    "scripts": {
+        "post-create-project-cmd": [
+            "composer dump"
+        ],
+        "post-install-cmd": [
+        ],
+        "post-update-cmd": [
+        ]
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
