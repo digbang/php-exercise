@@ -13,6 +13,7 @@ El nombramiento en el codigo debe ser en ingles.
 ### ¿Cómo envío mi desafío?
 
 Envianos, por email, un link a un repositorio accesible públicamente a <rrhh@digbang.com>.
+
 _Si encontraste este repo por casualidad o alguién te lo compartió, adjuntanos tu CV ;)_
 
 ### ¿Cómo utilizo el codigo provisto?
