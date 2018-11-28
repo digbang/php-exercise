@@ -1,3 +1,4 @@
+![Digbang](/digbang.png?raw=true)
 # Digbang Technical Challenge
 
 Bienvenido a #Digbang Technical Challenge.
@@ -17,7 +18,7 @@ Envianos, por mail, un link a un repositorio accesible públicamente.
 
 ### ¿Cómo utilizo el codigo provisto?
 
-Si lo desea, puede utilizar [Docker](https://www.docker.com/products/docker-desktop) para levantar un ambiente con PHP y Composer (ver instrucciones al final) y ejecutar los tests provistos para utilizarlos como guia de las clases y metodos que debe implementar.
+Podés utilizar [Docker](https://www.docker.com/products/docker-desktop) para levantar un ambiente con PHP y Composer (ver instrucciones al final) y ejecutar los tests provistos para utilizarlos como guia de las clases y metodos que debe implementar.
 
 
 ### Detalle
