@@ -1,7 +1,7 @@
 ![Digbang](/digbang.png?raw=true)
 # Digbang Technical Challenge
 
-Bienvenido a #Digbang Technical Challenge.
+Bienvenido al #[Digbang](https://digbang.com) Technical Challenge.
 Te desafiamos a resolver este ejercicio programando en PHP>= 7.1. No te preocupes, sólo queremos conocerte a nivel técnico, explorar tus conocimientos y tu forma de pensar. 
 Hacé lo más que puedas y de la mejor forma que sepas hacerlo. Si tenés alguna duda respecto a alguno de los puntos, tomá la decisión que consideres mas acorde.
 
@@ -12,8 +12,7 @@ El nombramiento en el codigo debe ser en ingles.
 
 ### ¿Cómo envío mi desafío?
 
-Envianos, por mail, un link a un repositorio accesible públicamente.
-
+Envianos, por email, un link a un repositorio accesible públicamente a <rrhh@digbang.com>.
 
 
 ### ¿Cómo utilizo el codigo provisto?
