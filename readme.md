@@ -3,22 +3,24 @@
 Bienvenido a #Digbang Technical Challenge.
 Te desafiamos a resolver este ejercicio programando en PHP>= 7.1. No te preocupes, sólo queremos conocerte a nivel técnico, explorar tus conocimientos y tu forma de pensar. 
 Hacé lo más que puedas y de la mejor forma que sepas hacerlo. Si tenés alguna duda respecto a alguno de los puntos, tomá la decisión que consideres mas acorde.
+
 Si te parece que podés agregar alguna funcionalidad o mejorar alguno de los casos, podes hacerlo sin problemas. Te pedimos que detalles con algún comentario, cual es el agregado y por qué lo hiciste.
 
+El nombramiento en el codigo debe ser en ingles.
 
 
-####¿Cómo envío mi desafío?
+### ¿Cómo envío mi desafío?
 
 Envianos, por mail, un link a un repositorio accesible públicamente.
 
 
 
-####¿Cómo utilizo el codigo provisto?
+### ¿Cómo utilizo el codigo provisto?
 
 Si lo desea, puede utilizar [Docker](https://www.docker.com/products/docker-desktop) para levantar un ambiente con PHP y Composer (ver instrucciones al final) y ejecutar los tests provistos para utilizarlos como guia de las clases y metodos que debe implementar.
 
 
-#### Detalle
+### Detalle
 Un banco posee diferentes tipos de clientes y diferentes tipos de cuentas. 
 Se pide:
 * Generar las clases necesarias para representar los diferentes tipos de clientes **Multinacional**, **Pyme** y **Persona**. Cada cliente podrá tener una o más cuentas asociadas.
